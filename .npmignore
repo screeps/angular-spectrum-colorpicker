@@ -1,0 +1,13 @@
+log
+bower_components
+node_modules
+grunt
+demo
+tasks
+test
+.idea
+.tmp
+.project
+.settings
+.DS_Store
+npm-debug.log

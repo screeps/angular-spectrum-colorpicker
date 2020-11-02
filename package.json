@@ -1,0 +1,180 @@
+{
+  "_from": "angular-spectrum-colorpicker",
+  "_id": "angular-spectrum-colorpicker@1.4.5",
+  "_inBundle": false,
+  "_integrity": "sha1-XamYiGMtnlYVgvwy8VWlNIAQzUM=",
+  "_location": "/angular-spectrum-colorpicker",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "angular-spectrum-colorpicker",
+    "name": "angular-spectrum-colorpicker",
+    "escapedName": "angular-spectrum-colorpicker",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/angular-spectrum-colorpicker/-/angular-spectrum-colorpicker-1.4.5.tgz",
+  "_shasum": "5da99888632d9e561582fc32f155a5348010cd43",
+  "_spec": "angular-spectrum-colorpicker",
+  "_where": "C:\\Home\\screeps\\angular-spectrum-colorpicker",
+  "author": {
+    "name": "Jimdo GmbH"
+  },
+  "bugs": {
+    "url": "https://github.com/Jimdo/angular-spectrum-colorpicker/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Hendrike Heydenreich",
+      "email": "hendrike@jimdo.com"
+    },
+    {
+      "name": "Sasha Mile Rudan",
+      "email": "mprinc@gmail.com"
+    },
+    {
+      "name": "Christian Meyer",
+      "email": "christian.meyer@jimdo.com"
+    },
+    {
+      "name": "Hauke Stange",
+      "email": "hauke@jimdo.com"
+    },
+    {
+      "name": "luto",
+      "email": "m@luto.at"
+    },
+    {
+      "name": "tkrym",
+      "email": "tomasz.krym@kodegenix.pl"
+    },
+    {
+      "name": "Dorian Manning",
+      "email": "dmnn@users.noreply.github.com"
+    },
+    {
+      "name": "Fernando Pasik",
+      "email": "fernando@pasik.com.ar"
+    },
+    {
+      "name": "Jorick van Hees",
+      "email": "j.vanhees@bluebillywig.com"
+    },
+    {
+      "name": "asilberschneider",
+      "email": "asilberschneider@users.noreply.github.com"
+    },
+    {
+      "name": "christian-meyer-jimdo",
+      "email": "christian.meyer@jimdo.com"
+    },
+    {
+      "name": "Denis Dervisevic",
+      "email": "dervisevic@textalk.se"
+    },
+    {
+      "name": "Robbie Trencheny",
+      "email": "me@robbiet.us"
+    },
+    {
+      "name": "Elan Perach",
+      "email": "elanperach@gmail.com"
+    },
+    {
+      "name": "Matthew Davies",
+      "email": "daviesgeek@users.noreply.github.com"
+    },
+    {
+      "name": "Anbiniyar Muniandy",
+      "email": "anbiniyar@gmail.com"
+    },
+    {
+      "name": "Erik Dykema",
+      "email": "erik@caserails.com"
+    },
+    {
+      "name": "Lasse Diercks",
+      "email": "lasse@jimdo.com"
+    }
+  ],
+  "dependencies": {
+    "angular": "^1.2.8",
+    "spectrum-colorpicker": "^1.7.0"
+  },
+  "deprecated": false,
+  "description": "Angular directive for a colorpicker, that bases on http://bgrins.github.io/spectrum/",
+  "devDependencies": {
+    "bower": "~1.7.7",
+    "coffee-script": "~1.10.0",
+    "connect-less": "^0.3.1",
+    "glob": "~6.0.4",
+    "grunt": "~0.4.5",
+    "grunt-angular-templates": "~1.0.2",
+    "grunt-bump": "0.7.0",
+    "grunt-cli": "~0.1.13",
+    "grunt-contrib-concat": "~0.5.1",
+    "grunt-contrib-connect": "^0.11.2",
+    "grunt-contrib-jshint": "~0.12.0",
+    "grunt-contrib-less": "~1.2.0",
+    "grunt-contrib-uglify": "~0.11.1",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-coveralls": "^1.0.0",
+    "grunt-karma": "~0.12.1",
+    "grunt-ng-annotate": "^1.0.1",
+    "grunt-npm": "https://github.com/Xiphe/grunt-npm/tarball/98187270151e53d45214d778de394a557e81958c",
+    "grunt-parallel": "^0.4.1",
+    "grunt-protractor-runner": "~3.0.0",
+    "grunt-shell-spawn": "~0.3.10",
+    "karma": "^0.13.19",
+    "karma-chrome-launcher": "~0.2.2",
+    "karma-coffee-preprocessor": "~0.3.0",
+    "karma-coverage": "^0.5.3",
+    "karma-firefox-launcher": "~0.1.7",
+    "karma-html2js-preprocessor": "~0.1.0",
+    "karma-jasmine": "~0.3.7",
+    "karma-phantomjs-launcher": "~1.0.0",
+    "karma-requirejs": "~0.2.4",
+    "karma-script-launcher": "~0.1.0",
+    "load-grunt-tasks": "~3.4.0",
+    "mkdirp": "^0.5.1",
+    "phantomjs-prebuilt": "^2.1.4",
+    "protractor": "~3.0.0",
+    "requirejs": "^2.1.22"
+  },
+  "homepage": "https://github.com/Jimdo/angular-spectrum-colorpicker",
+  "keywords": [
+    "directive",
+    "angular",
+    "colorpicker"
+  ],
+  "license": "MIT",
+  "main": "dist/angular-spectrum-colorpicker.js",
+  "maintainers": [
+    {
+      "name": "Joscha Feth",
+      "email": "joscha@feth.com"
+    },
+    {
+      "name": "Hannes Diercks",
+      "email": "hannes.diercks@jimdo.com"
+    }
+  ],
+  "name": "angular-spectrum-colorpicker",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Jimdo/angular-spectrum-colorpicker.git"
+  },
+  "scripts": {
+    "setup": "bower install && ln -sf ./node_modules/grunt-cli/bin/grunt ./grunt && ./node_modules/protractor/bin/webdriver-manager update && ./grunt build",
+    "test": "grunt test"
+  },
+  "subdescription": "Idea from http://jsfiddle.net/g/LAJCa/",
+  "version": "1.4.5"
+}
